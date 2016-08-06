@@ -1,5 +1,4 @@
 #!/bin/bash
-cd ~/sandofsuro.github.io/
 git add *
-git commit -m "update"
+git commit -m "push an article"
 git push origin master
