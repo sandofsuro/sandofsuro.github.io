@@ -1,6 +1,6 @@
 ---
 layout : post
-title : "Css中的选择器"
+title : "CSS中的选择器"
 excerpt: ""
 ---
 
