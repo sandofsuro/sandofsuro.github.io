@@ -7,22 +7,16 @@ date: 2016-03-21
 
 ## About This Blog
 
-This blog is a clone from [Moon](https://github.com/TaylanTatli/Moon), a jekyll theme that was opensourced with MIT license on GitHub.
+This blog is a clone from [hanyihong0324](https://github.com/hanyihong0324/hanyihong0324.github.io), a jekyll theme that was opensourced with MIT license on GitHub and I also changed some things to fit my needs. 
 
-Thanks to TaylanTatli, the developer of Moon.
+Finally ,thanks to TaylanTatli, the developer of Moon.
+I also prepare to develop my own blog(being designed).
+Just keep learning
 
-Compared to Moon, I changed some things to fit my needs. Details are here: <a href="/Progressing_Personal_Site/">Progressing Personal Site</a>.
-
-The source code of my site is on [GitHub](https://github.com/hanyihong0324/hanyihong0324.github.io)
 
 ## Main Topic of My Blog
 
-+ Anime
-
 + Technology
-
-+ Japanese
 
 + Life
 
-+ Think
